@@ -18,7 +18,7 @@ const Coment = (props) => {
          <form onSubmit={Salvar}>
             <CampoText obrigatorio={true} />
 
-            <Botao>Salvar</Botao>
+            <Botao>Salvar Tweet</Botao>
          </form>
          </section>
     )
